@@ -18,8 +18,11 @@ Click the extension icon from the Chrome toolbar.
 
 Step 6: Inspect logs
 Go to chrome://extensions
+
 a.Click Details on the extension
+
 b.Click Inspect views then popup.html
+
 c.Open Console
 
 Step 7: Perform actions
